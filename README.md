@@ -63,11 +63,8 @@ projet-reseau/
 ## 👨‍🎓 Réalisé par
 
 **Nom :** Adam Sakhri
-**Filière :** (ex: Génie Informatique / Réseaux)
 **Année :** 2025 / 2026
 
 ---
 
-## 📄 Licence
-
-Ce projet est réalisé dans un cadre pédagogique.
+.
